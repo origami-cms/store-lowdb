@@ -1,0 +1,59 @@
+{
+  "user": [
+    {
+      "age": 24,
+      "name": "Tom",
+      "email": "bob@example.com",
+      "password": "secret",
+      "country": "us",
+      "createdAt": "2018-09-05T11:50:23.653Z",
+      "updatedAt": "2018-09-05T11:50:23.653Z",
+      "deletedAt": "2018-09-05T11:50:23.781Z",
+      "id": "59afeaed-bbca-4689-aa07-5f2c4fde9653"
+    },
+    {
+      "age": 24,
+      "name": "Bob",
+      "email": "690.9311036384364@example.com",
+      "password": "secret",
+      "country": "us",
+      "createdAt": "2018-09-05T11:50:23.754Z",
+      "updatedAt": "2018-09-05T11:50:23.754Z",
+      "deletedAt": null,
+      "id": "d5d77f11-86d4-4b91-9aa3-1c9ad45bd645"
+    },
+    {
+      "age": 24,
+      "name": "Bob",
+      "email": "31.662138253082617@example.com",
+      "password": "secret",
+      "country": "us",
+      "createdAt": "2018-09-05T11:50:23.755Z",
+      "updatedAt": "2018-09-05T11:50:23.755Z",
+      "deletedAt": null,
+      "id": "5163f2d1-5ec1-4de1-bf92-f1ac5a7b3b86"
+    },
+    {
+      "age": 24,
+      "name": "Bob",
+      "email": "501.9076815910748@example.com",
+      "password": "secret",
+      "country": "us",
+      "createdAt": "2018-09-05T11:50:23.757Z",
+      "updatedAt": "2018-09-05T11:50:23.757Z",
+      "deletedAt": null,
+      "id": "b6b695c8-b394-485a-adaa-288b6d006a00"
+    },
+    {
+      "age": 24,
+      "name": "Jake",
+      "email": "upsert@example.com",
+      "password": "secret",
+      "country": "us",
+      "createdAt": "2018-09-05T11:50:23.778Z",
+      "updatedAt": "2018-09-05T11:50:23.778Z",
+      "deletedAt": null,
+      "id": "fa48ba64-632a-4217-bfa6-b88c637c3c25"
+    }
+  ]
+}

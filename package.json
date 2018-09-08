@@ -1,6 +1,6 @@
 {
   "name": "origami-store-lowdb",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "description": "LowDB plugin for Origami CMS",
   "main": "build/Store.js",
   "repository": "https://github.com/origami-cms/store-lowdb",

@@ -52,8 +52,6 @@ export default class LowDBModel extends Model {
 
         const func = this._model.filter(query).value();
 
-        // func = this._populateQuery(func, options);
-
         return (func).map(r => new Resource(this.name, r, this.store, options));
     }
 

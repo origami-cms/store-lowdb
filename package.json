@@ -19,6 +19,7 @@
     "lodash-id": "^0.14.0",
     "lowdb": "^1.0.0",
     "origami-store-base": "^0.0.1-alpha.1",
+    "uuid": "^3.3.2",
     "validator": "^10.7.1"
   },
   "devDependencies": {
